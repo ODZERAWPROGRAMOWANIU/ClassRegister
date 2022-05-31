@@ -1,0 +1,3 @@
+List of all contacts: 
+1. Name: Jan Kowalski  Email: kowalski123@gmail.com  Phone number: 123456789  Birth date: 12.09.1999  Gender: M
+2. Name: Kuba Kowalski  Email: j.kowalski@wp.pl  Phone number: 987654321  Birth date: 19.06.1940  Gender: M
